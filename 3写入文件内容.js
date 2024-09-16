@@ -7,3 +7,5 @@ fs.writeFile('2.txt','tmlgb',function(err){
     console.log('xie文件成功')
 
 })
+console.log('md')
+
